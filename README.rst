@@ -74,9 +74,7 @@ real-time face recognition:
 
 |image7|
 
-See `this
-example <https://github.com/ageitgey/face_recognition/blob/master/examples/facerec_from_webcam_faster.py>`__
-for the code.
+
 
 
 .. |image3| image:: https://cloud.githubusercontent.com/assets/896692/23625227/42c65360-025d-11e7-94ea-b12f28cb34b4.png
